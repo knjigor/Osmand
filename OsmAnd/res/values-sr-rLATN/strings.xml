@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="about_version">Verzija:</string>
     <string name="about_settings">Oko</string>
@@ -394,4 +394,4 @@
     <string name="home_button">Kuća</string>
     <string name="rendering_attr_subwayMode_name">Linije metroa</string>
     <string name="search_radius_proximity">U blizini</string>
-    </resources>
+</resources>
